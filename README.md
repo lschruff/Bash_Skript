@@ -1,4 +1,5 @@
 # Mein (nicht) erstes Git-Repositorium
 
-Datum: 2022-09-12  
-Library Carpentry Workshop
+Author: Lara Schruff
+Date: 2022-09-12  
+Venue: Library Carpentry Workshop
